@@ -1,4 +1,4 @@
-# Big_Data_Analytics
+# Description
 
 Task: Implement 10 queries for the MovieLens dataset and execute them in PySpark, with the following configurations for Apache Spark.
 
